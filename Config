@@ -1,1 +1,6 @@
-
+{
+  "adminsById": [1],
+  "adminsByUsername": ["Roblox"],
+  "groupId": 34425188,
+  "requiredRank": 4
+}
